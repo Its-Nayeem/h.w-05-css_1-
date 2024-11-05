@@ -1,0 +1,27 @@
+h1 span{
+    color: red;
+    font-size: 50px; font-family:sans-serif;
+}
+
+
+
+img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 200px;
+}
+.h1 b {
+    color: blue; 
+
+}
+.first{
+background-image:url(./2.jpg) ;
+width: 100%;
+height: 60%;
+color: azure;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: #ffffff;
+}
